@@ -10,10 +10,6 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/#computer-s
 - [Biology of Aging](#biology-of-aging)
 - [Fungi](#command-line-apps)
 
-### Bioinformatics
-
-
-
 ### Biochemistry
 
 Oxygen-resistent nitrogenases anyone?
@@ -21,10 +17,6 @@ Oxygen-resistent nitrogenases anyone?
 ### Eukaryote
 
 Larvamima - ant parasytes that mimic the larvae. After the discovery about 30 years ago only seven mentions in reviews.
-
-%### Omics
-
-%### Biology of Aging
 
 ### Virusology
 
