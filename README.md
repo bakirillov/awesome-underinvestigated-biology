@@ -6,9 +6,9 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/#computer-s
 
 ## Contents
 
-- [Bioinformatics](#bioinformatics)
-- [Biology of Aging](#biology-of-aging)
-- [Fungi](#command-line-apps)
+- [Biochemistry](#biochemistry)
+- [Eukaryote](#eukaryote)
+- [Virusology](#virusology)
 
 ### Biochemistry
 
