@@ -4,7 +4,7 @@
 
 Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is an awesome list but not an awesome-list) but with focus on all things biological. Initial offering is made by participants of Russian-speaking Biology-related telegram chat Лапкочат GANG.
 
-## Contents
+# Contents
 
 - [Biochemistry](#biochemistry)
 - [Prokaryote biology](#prokaryote-biology)
