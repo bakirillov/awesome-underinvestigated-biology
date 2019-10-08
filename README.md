@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Inspired by https://matthewmcateer.me/blog/under-investigated-fields/#computer-science-computronium (which is an awesome list but not an awesome-list) but with focus in all things biological. Initial offering is made by participants of Russian-speaking Biology-related telegram chat Лапкочат GANG.
+Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is an awesome list but not an awesome-list) but with focus in all things biological. Initial offering is made by participants of Russian-speaking Biology-related telegram chat Лапкочат GANG.
 
 ## Contents
 
