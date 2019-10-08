@@ -6,10 +6,15 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is 
 
 ## Contents
 
+- [Omics](#omics)
 - [Biochemistry](#biochemistry)
 - [Prokaryote biology](#prokaryote-biology)
 - [Eukaryote biology](#eukaryote-biology)
 - [Virology](#virology)
+
+### Omics
+
+[Functions of genes](https://research.a-star.edu.sg/articles/highlights/a-decline-in-gene-discoveries/) - from about 20k of known human genes we somewhat know a function of about 5k. Imagine the situation for other species.
 
 ### Biochemistry
 
