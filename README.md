@@ -18,7 +18,7 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/#computer-s
 
 [Larvamima](https://scholar.google.com.ua/scholar?cites=7346071014699236931&as_sdt=2005&sciodt=0,5&hl=ru) - ant parasytes that mimic the larvae. After the discovery about 30 years ago only twelve mentions in reviews.
 
-### Virusology
+### Virology
 
 Archaeal virii - morphology differences from bacteriophages and eukaryote virii. Are there any archaeal virii with hybrid RNA-DNA genome?  
 
