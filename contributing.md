@@ -1,5 +1,5 @@
 
-Contribution Guidelines
+## Contribution Guidelines
 
 You want to contribute to Awesome Underinvestigated Biology? Great!
 
