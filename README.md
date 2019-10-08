@@ -9,7 +9,7 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is 
 - [Biochemistry](#biochemistry)
 - [Prokaryote biology](#prokaryote-biology)
 - [Eukaryote biology](#eukaryote-biology)
-- [Virusology](#virusology)
+- [Virology](#virology)
 
 ### Biochemistry
 
