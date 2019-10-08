@@ -13,7 +13,7 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is 
 
 ### Biochemistry
 
-[Oxygen-resistent nitrogenases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4735515/) anyone?
+[Oxygen-resistant nitrogenases](https://www.researchgate.net/post/How_can_we_engineer_nitrogenases_to_be_oxygen-tolerant) anyone? There could be a very promising application in industry since [the current way of nitrogen production](https://www.generon.com/how-is-nitrogen-produced-for-industrial-applications/) is quite compicated. There was [a paper twenty years ago](https://jb.asm.org/content/174/21/6840.short) with claims of finding such nitrogenase but [current results](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4735515/) contradict it.
 
 ### Prokaryote biology
 
