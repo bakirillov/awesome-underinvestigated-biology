@@ -1,7 +1,7 @@
 
 ## Contribution Guidelines
 
-You want to contribute to Awesome Underinvestigated Biology? Great!
+You want to contribute to Awesome Under-investigated Biology? Great!
 
 Please ensure your pull request adheres to the following guidelines:
 
