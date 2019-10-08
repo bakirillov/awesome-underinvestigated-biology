@@ -37,3 +37,7 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is 
 [Archaeal virii](https://www.nature.com/articles/nrmicro1527) - morphology differences from bacteriophages and eukaryote virii. Are there any archaeal virii with hybrid RNA-DNA genome?  
 
 [Fungal virii](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005172) - Why they are so often non-pathogenic for their hosts?
+
+### Medicine
+
+[Streptococcus mutans vaccine](https://en.wikipedia.org/wiki/Streptococcus_mutans) - how to evict the stuff that eats your teeth. There is some [research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3708248/citedby/) but no known solution yet.
