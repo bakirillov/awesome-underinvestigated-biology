@@ -11,6 +11,7 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is 
 - [Prokaryote biology](#prokaryote-biology)
 - [Eukaryote biology](#eukaryote-biology)
 - [Virology](#virology)
+- [Medicine](#medicine)
 
 ### Omics
 
