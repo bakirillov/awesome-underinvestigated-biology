@@ -23,7 +23,7 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is 
 
 [Larvamima](https://scholar.google.com.ua/scholar?cites=7346071014699236931&as_sdt=2005&sciodt=0,5&hl=ru) - ant parasytes that mimic the larvae. After the discovery about 30 years ago only twelve mentions in reviews.
 
-[Mimicry in plants](https://en.wikipedia.org/wiki/Mimicry_in_plants) - quite self-explanatory. There is a number of examples ([rice and Echinochloa crus-galli](https://www.nature.com/articles/s41559-019-0976-1), fallen leaves and [Monotropsis oderata](https://en.wikipedia.org/wiki/Monotropsis)) but it still remains pretty unclear.
+[Mimicry in plants](https://en.wikipedia.org/wiki/Mimicry_in_plants) - quite self-explanatory. There is a number of examples ([rice and Echinochloa crus-galli](https://www.nature.com/articles/s41559-019-0976-1), [fallen leaves and Monotropsis oderata](https://en.wikipedia.org/wiki/Monotropsis)) but it still remains pretty unclear.
 
 [Myrmecophilidae](https://en.wikipedia.org/wiki/Ant_cricket) - live almost everywhere where ants do, [no assembled genomes](https://www.ncbi.nlm.nih.gov/search/all/?term=myrmecophilidae), no research on their ecology and molecular biology.
 
