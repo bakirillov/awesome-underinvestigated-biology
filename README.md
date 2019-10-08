@@ -7,6 +7,7 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is 
 ## Contents
 
 - [Biochemistry](#biochemistry)
+- [Prokaryote biology](#prokaryote-biology)
 - [Eukaryote biology](#eukaryote-biology)
 - [Virusology](#virusology)
 
@@ -21,6 +22,8 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is 
 ### Eukaryote biology
 
 [Larvamima](https://scholar.google.com.ua/scholar?cites=7346071014699236931&as_sdt=2005&sciodt=0,5&hl=ru) - ant parasytes that mimic the larvae. After the discovery about 30 years ago only twelve mentions in reviews.
+
+[Myrmecophilidae](https://en.wikipedia.org/wiki/Ant_cricket) - live almost everywhere where ants do, [no assembled genomes](https://www.ncbi.nlm.nih.gov/search/all/?term=myrmecophilidae), no research on their ecology and molecular biology.
 
 ### Virology
 
