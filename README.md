@@ -12,7 +12,7 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/#computer-s
 
 ### Biochemistry
 
-Oxygen-resistent nitrogenases anyone?
+[Oxygen-resistent nitrogenases] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4735515/) anyone?
 
 ### Eukaryote
 
