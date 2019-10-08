@@ -22,4 +22,4 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/#computer-s
 
 Archaeal virii - morphology differences from bacteriophages and eukaryote virii. Are there any archaeal virii with hybrid RNA-DNA genome?  
 
-Fungal virii. Why they are so often non-pathogenic for their hosts?   
+[Fungal virii](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005172) Why they are so often non-pathogenic for their hosts?
