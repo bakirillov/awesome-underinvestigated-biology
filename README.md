@@ -48,5 +48,5 @@ Topics in biology that are not researched as much as they should be. Initial off
 
 ## Other resources
 
-[Original list](https://matthewmcateer.me/blog/under-investigated-fields/) - includes many fields (Math, Physics etc).
+[Original list](https://matthewmcateer.me/blog/under-investigated-fields/) - includes many fields (Math, Physics etc).      
 [Open questions: CRISPR biology](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0565-9) - review of open questions in CRISPR by Eugene Koonin
