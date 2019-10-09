@@ -18,7 +18,7 @@ Topics in biology that are not researched as much as they should be. Initial off
 
 ### Bioinformatics
 
-[RNN instead of HMMs](https://stats.stackexchange.com/questions/282987/hidden-markov-model-vs-recurrent-neural-network) - there are a lot of application of [HMMs](https://en.wikipedia.org/wiki/Hidden_Markov_model) in Bioinformatics (classic example is [multiple sequence alignment](https://www.ncbi.nlm.nih.gov/pubmed/20147223)) but RNNs have pretty much the same properties but are way stronger as sequence modellers. Don't see much of RNN application in lieu of HMMs in Bioinf.  
+[RNN instead of HMMs](https://stats.stackexchange.com/questions/282987/hidden-markov-model-vs-recurrent-neural-network) - there are a lot of application of [HMMs](https://en.wikipedia.org/wiki/Hidden_Markov_model) in Bioinformatics (classic example is [multiple sequence alignment](https://www.ncbi.nlm.nih.gov/pubmed/20147223)) but RNNs have pretty much the same properties while being way stronger as sequence modellers. Don't see much of RNN application in lieu of HMMs in Bioinf.  
 
 ### Omics
 
