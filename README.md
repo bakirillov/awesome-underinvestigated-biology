@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is an awesome list but not an awesome-list) but with focus on all things biological. Initial offering is made by the participants of Russian-speaking Biology-related telegram chat Лапкочат GANG.
+Topics in biology that are not researched as much as they should be. Initial offering is made by the participants of Russian-speaking Biology-related telegram chat Лапкочат GANG.
 
 ## Contents
 
@@ -12,6 +12,8 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is 
 - [Eukaryote biology](#eukaryote-biology)
 - [Virology](#virology)
 - [Medicine](#medicine)
+
+[Other resources](#other-resources)
 
 ### Omics
 
@@ -42,3 +44,9 @@ Inspired by https://matthewmcateer.me/blog/under-investigated-fields/ (which is 
 ### Medicine
 
 [Streptococcus mutans vaccine](https://en.wikipedia.org/wiki/Streptococcus_mutans) - how to evict the stuff that eats your teeth. There is some [research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3708248/citedby/) but no known solution yet.
+
+
+## Other resources
+
+[Original list](https://matthewmcateer.me/blog/under-investigated-fields/) - includes many fields (Math, Physics etc).
+[Open questions: CRISPR biology](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0565-9) - review of open questions in CRISPR by Eugene Koonin
