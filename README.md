@@ -19,7 +19,9 @@ Topics in biology that are not researched as much as they should be. Initial off
 ### Bioinformatics
 
 [RNN instead of HMMs](https://stats.stackexchange.com/questions/282987/hidden-markov-model-vs-recurrent-neural-network) - there are a lot of application of [HMMs](https://en.wikipedia.org/wiki/Hidden_Markov_model) in Bioinformatics (classic example is [multiple sequence alignment](https://www.ncbi.nlm.nih.gov/pubmed/20147223)) but [RNNs](https://en.wikipedia.org/wiki/Recurrent_neural_network) have pretty much the same properties while being way stronger as sequence modellers. Don't see much of RNN application in lieu of HMMs in Bioinf though. Maybe [Transformers](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0) would be helpful as well?     
+
 [Proper visualization of long DNA sequences](http://mate.tue.nl/mate/pdfs/5346.pdf) - it would be nice to have an understandable visualization of long DNA sequences. Some good attempts are available [in this library](https://github.com/Lab41/squiggle).     
+
 [Prediction of response to psychopharma](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990649/citedby/) - there is some research but pretty recent and not much.     
 
 ### Omics
@@ -55,6 +57,8 @@ Topics in biology that are not researched as much as they should be. Initial off
 
 ## Other resources
 
-[Original list](https://matthewmcateer.me/blog/under-investigated-fields/) - includes many fields (Math, Physics etc).      
+[Original list](https://matthewmcateer.me/blog/under-investigated-fields/) - includes many fields (Math, Physics etc). 
+
 [Open questions: CRISPR biology](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0565-9) - review of open questions in CRISPR by Eugene Koonin     
+
 [Wiki list of unsolved problems in biology](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology) - note that unsolved doesn't imply under-investigated.
