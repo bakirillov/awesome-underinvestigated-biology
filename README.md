@@ -19,6 +19,7 @@ Topics in biology that are not researched as much as they should be. Initial off
 ### Bioinformatics
 
 [RNN instead of HMMs](https://stats.stackexchange.com/questions/282987/hidden-markov-model-vs-recurrent-neural-network) - there are a lot of application of [HMMs](https://en.wikipedia.org/wiki/Hidden_Markov_model) in Bioinformatics (classic example is [multiple sequence alignment](https://www.ncbi.nlm.nih.gov/pubmed/20147223)) but [RNNs](https://en.wikipedia.org/wiki/Recurrent_neural_network) have pretty much the same properties while being way stronger as sequence modellers. Don't see much of RNN application in lieu of HMMs in Bioinf though.  
+[Proper visualization of long DNA sequences](http://mate.tue.nl/mate/pdfs/5346.pdf) - it would be nice to have an understandable visualization of long DNA sequences. Some good attempts are available [in this library](https://github.com/Lab41/squiggle).
 
 ### Omics
 
