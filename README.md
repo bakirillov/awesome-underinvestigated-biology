@@ -24,7 +24,7 @@ Topics in biology that are not researched as much as they should be. Initial off
 
 ### Omics
 
-[Functions of genes](https://research.a-star.edu.sg/articles/highlights/a-decline-in-gene-discoveries/) - from about 20k of known human genes we somewhat know a function of about 5k (update [10k](https://reactome.org/about/news/73-reactome-celebrates-release-of-10-000th-annotated-protein)). Imagine the situation for other species.
+[Functions of genes](https://research.a-star.edu.sg/articles/highlights/a-decline-in-gene-discoveries/) - from about 20k of known human genes we somewhat know a function of about 5k (update: [10k](https://reactome.org/about/news/73-reactome-celebrates-release-of-10-000th-annotated-protein)). Imagine the situation for other species.
 
 ### Biochemistry
 
