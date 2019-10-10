@@ -32,7 +32,7 @@ Topics in biology that are not researched as much as they should be. Initial off
 
 ### Biochemistry
 
-[Oxygen-resistant nitrogenases](https://www.researchgate.net/post/How_can_we_engineer_nitrogenases_to_be_oxygen-tolerant) anyone? There could be a very promising application in industry since [the current way of nitrogen production](https://www.generon.com/how-is-nitrogen-produced-for-industrial-applications/) is quite compicated. There was [a paper twenty years ago](https://jb.asm.org/content/174/21/6840.short) with claims of finding such nitrogenase but [current results](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4735515/) contradict it.
+[Oxygen-resistant nitrogenases](https://www.researchgate.net/post/How_can_we_engineer_nitrogenases_to_be_oxygen-tolerant) anyone? There could be a very promising application in industry since [the current way of nitrogen fixation](https://en.wikipedia.org/wiki/Haber_process) is quite compicated. There was [a paper twenty years ago](https://jb.asm.org/content/174/21/6840.short) with claims of finding such nitrogenase but [current results](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4735515/) contradict it.
 
 ### Prokaryote biology
 
