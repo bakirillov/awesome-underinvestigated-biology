@@ -28,6 +28,8 @@ Topics in biology that are not researched as much as they should be. Initial off
 
 [Functions of genes](https://research.a-star.edu.sg/articles/highlights/a-decline-in-gene-discoveries/) - from about 20k of known human genes we somewhat know a function of about 5k (update: [10k](https://reactome.org/about/news/73-reactome-celebrates-release-of-10-000th-annotated-protein)). Imagine the situation for other species.
 
+[Metagenomics of clouds](https://www.researchgate.net/publication/262932901_Metagenomics_of_Clouds_and_Atmosphere) - metagenomics is fast growing approach in modern biology.Investigation of microbial community of atmosphere (for example clouds) is very interesting and not fully understood field of microbiology.
+
 ### Biochemistry
 
 [Oxygen-resistant nitrogenases](https://www.researchgate.net/post/How_can_we_engineer_nitrogenases_to_be_oxygen-tolerant) anyone? There could be a very promising application in industry since [the current way of nitrogen production](https://www.generon.com/how-is-nitrogen-produced-for-industrial-applications/) is quite compicated. There was [a paper twenty years ago](https://jb.asm.org/content/174/21/6840.short) with claims of finding such nitrogenase but [current results](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4735515/) contradict it.
