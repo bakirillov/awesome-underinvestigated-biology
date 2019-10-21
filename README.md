@@ -18,6 +18,8 @@ Topics in biology that are not researched as much as they should be. Initial off
 
 ### Bioinformatics
 
+[Bioinformatics-aware Neural Network Interpretation](https://www.sciencedirect.com/science/article/pii/S1051200417302385) - it would be very interesting to get pieces of evidence for and against a biological hypothesis from a trained neural network. There are some methods to interpret NNs but most of them are concerned only with vision tasks. Most works here provide LOGO sequences like [DeepMotif](https://arxiv.org/abs/1605.01133) (look for pytorch implementation [here](https://github.com/bakirillov/deepmotif4pytorch)) but something more understandable would be good to have.
+
 [Prediction of response to psychopharma](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990649/citedby/) - there is some research but pretty recent and not much.     
 
 [Proper visualization of long DNA sequences](http://mate.tue.nl/mate/pdfs/5346.pdf) - it would be nice to have an understandable visualization of long DNA sequences. Some good attempts are available [in this library](https://github.com/Lab41/squiggle).     
