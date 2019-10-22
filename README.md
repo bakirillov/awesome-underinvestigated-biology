@@ -66,3 +66,5 @@ Topics in biology that are not researched as much as they should be. Initial off
 [Open questions: CRISPR biology](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0565-9) - review of open questions in CRISPR by Eugene Koonin     
 
 [Wiki list of unsolved problems in biology](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology) - note that unsolved doesn't imply under-investigated.
+
+[Not yet awesome Rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - list similar to the current one only about Rust language ecosystem.
