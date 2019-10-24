@@ -68,3 +68,5 @@ Topics in biology that are not researched as much as they should be. Initial off
 [Wiki list of unsolved problems in biology](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology) - note that unsolved doesn't imply under-investigated.
 
 [Not yet awesome Rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - list similar to the current one only about Rust language ecosystem.
+
+[Blog post on under-investigated topics in ecology](https://dynamicecology.wordpress.com/2016/05/09/what-are-the-biggest-understudied-questions-in-ecology/) - on non-stationarity and related stuff.
