@@ -70,3 +70,5 @@ Topics in biology that are not researched as much as they should be. Initial off
 [Not yet awesome Rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - list similar to the current one only about Rust language ecosystem.
 
 [Blog post on under-investigated topics in ecology](https://dynamicecology.wordpress.com/2016/05/09/what-are-the-biggest-understudied-questions-in-ecology/) - on non-stationarity and related stuff.
+
+[Talk on challenges in Synthetic Biology](https://www.ibiology.org/bioengineering/challenges-in-synthetic-biology/) - mostly technical like standardisation, not conceptual ones.
