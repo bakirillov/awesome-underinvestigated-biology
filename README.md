@@ -72,3 +72,5 @@ Topics in biology that are not researched as much as they should be. Initial off
 [Blog post on under-investigated topics in ecology](https://dynamicecology.wordpress.com/2016/05/09/what-are-the-biggest-understudied-questions-in-ecology/) - on non-stationarity and related stuff.
 
 [Talk on challenges in Synthetic Biology](https://www.ibiology.org/bioengineering/challenges-in-synthetic-biology/) - mostly technical like standardisation, not conceptual ones.
+
+[Fresh review of Deep Learning in Biomed](https://greenelab.github.io/deep-review/) - with focus on obstacles, rather good.
