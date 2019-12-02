@@ -13,6 +13,7 @@ Topics in biology that are not researched as much as they should be. Initial off
 - [Eukaryote biology](#eukaryote-biology)
 - [Virology](#virology)
 - [Medicine](#medicine)
+- [3d-bioprinting](#3dbioprinting)
 
 [Other resources](#other-resources)
 
@@ -58,6 +59,9 @@ Topics in biology that are not researched as much as they should be. Initial off
 
 [Streptococcus mutans vaccine](https://en.wikipedia.org/wiki/Streptococcus_mutans) - how to evict the stuff that eats your teeth. There is some [research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3708248/citedby/) but no known solution yet.
 
+### 3D-bioprinting
+
+[Reproducibility of directed collagen strand growth](https://www.ncbi.nlm.nih.gov/pubmed/30830351) - it is hard to grow collagen strands with directed linear growth (usually they tend to grow chaotically). Different papers offer different solutions and different results even for similar experiment conditions.
 
 ## Other resources
 
