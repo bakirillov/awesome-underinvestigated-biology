@@ -2,7 +2,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Topics in biology that are not researched as much as they should be. Initial offering is made by the participants of Russian-speaking Biology-related telegram chat Лапкочат GANG.
+Topics in biology that are not researched as much as they should be. Initial offering is made by the participants of Russian-speaking Biology-related telegram chat Лапкочат GANG.  
+Disclaimer: the descriptions are not meant to be comprehensive, I just wanted to provide a starting point for the search.
 
 ## Contents
 
