@@ -32,7 +32,7 @@ Disclaimer: the descriptions are not meant to be comprehensive, I just wanted to
 
 [Functions of genes](https://research.a-star.edu.sg/articles/highlights/a-decline-in-gene-discoveries/) - from about 20k of known human genes we somewhat know a function of about 5k (update: [10k](https://reactome.org/about/news/73-reactome-celebrates-release-of-10-000th-annotated-protein)). Imagine the situation for other species.
 
-[Metagenomics of clouds](https://www.researchgate.net/publication/262932901_Metagenomics_of_Clouds_and_Atmosphere) - metagenomics is fast growing approach in modern biology.Investigation of microbial community of atmosphere (for example clouds) is very interesting and not fully understood field of microbiology.
+[Metagenomics of clouds](https://www.researchgate.net/publication/262932901_Metagenomics_of_Clouds_and_Atmosphere) - metagenomics is a fast growing approach in modern biology. Investigation of microbial community of atmosphere (for example clouds) is very interesting and not fully understood field of microbiology.
 
 ### Biochemistry
 
