@@ -14,7 +14,7 @@ Disclaimer: the descriptions are not meant to be comprehensive, I just wanted to
 - [Eukaryote biology](#eukaryote-biology)
 - [Virology](#virology)
 - [Medicine](#medicine)
-- [3d-bioprinting](#3dbioprinting)
+- [3D bioprinting](#3d-bioprinting)
 
 [Other resources](#other-resources)
 
@@ -60,7 +60,7 @@ Disclaimer: the descriptions are not meant to be comprehensive, I just wanted to
 
 [Streptococcus mutans vaccine](https://en.wikipedia.org/wiki/Streptococcus_mutans) - how to evict the stuff that eats your teeth. There is some [research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3708248/citedby/) but no known solution yet.
 
-### 3D-bioprinting
+### 3D bioprinting
 
 [Reproducibility of directed collagen strand growth](https://www.ncbi.nlm.nih.gov/pubmed/30830351) - it is hard to grow collagen strands with directed linear growth (usually they tend to grow chaotically). Different papers offer different solutions and different results even for similar experiment conditions.
 
