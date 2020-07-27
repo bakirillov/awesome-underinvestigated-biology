@@ -79,3 +79,5 @@ Disclaimer: the descriptions are not meant to be comprehensive, I just wanted to
 [Talk on challenges in Synthetic Biology](https://www.ibiology.org/bioengineering/challenges-in-synthetic-biology/) - mostly technical like standardisation, not conceptual ones.
 
 [Fresh review of Deep Learning in Biomed](https://greenelab.github.io/deep-review/) - with focus on obstacles, rather good.
+
+[OpenAI requests for research](https://openai.com/blog/requests-for-research-2/) - a list of requests to research in machine learning by OpenAI.
