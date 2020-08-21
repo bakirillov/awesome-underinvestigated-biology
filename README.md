@@ -81,3 +81,5 @@ Disclaimer: the descriptions are not meant to be comprehensive, I just wanted to
 [Fresh review of Deep Learning in Biomed](https://greenelab.github.io/deep-review/) - with focus on obstacles, rather good.
 
 [OpenAI requests for research](https://openai.com/blog/requests-for-research-2/) - a list of requests to research in machine learning by OpenAI.
+
+[Open problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/) - a list of unsolved problems in Robotics.
