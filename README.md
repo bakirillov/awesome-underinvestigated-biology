@@ -83,3 +83,5 @@ Disclaimer: the descriptions are not meant to be comprehensive, I just wanted to
 [OpenAI requests for research](https://openai.com/blog/requests-for-research-2/) - a list of requests to research in machine learning by OpenAI.
 
 [Open problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/) - a list of unsolved problems in Robotics.
+
+[Research questions deemed to have a big social impact](https://80000hours.org/articles/research-questions-by-discipline/) - a list with probably important questions for 19 fields.
